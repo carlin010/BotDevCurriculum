@@ -1,4 +1,6 @@
 # VITAL INFORMATION
+<img src="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png?raw=true">
+
 Subject(s): Peer Testing
 
 Topic or Unit: Usability Testing
